@@ -1,8 +1,8 @@
 {
-  "Products": [
+  "products": [
     {
       "id": 1,
-      "name": "Bơ 034 VietGap 1kg",
+      "productName": "Bơ 034 VietGap 1kg",
       "description": "Lớp vỏ xanh bóng đẹp mắt. Thân quả dài trung bình khoảng 27 tới 35 cm. Có hạt rất nhỏ thậm chí có trái còn không có hạt. Thịt quả thơm, vị ngọt béo ngậy.",
       "category": [
         "Trái cây VietGap",
@@ -31,7 +31,7 @@
     },
     {
       "id": 2,
-      "name": "Bơ Sáp VietGap Túi 500g",
+      "productName": "Bơ Sáp VietGap Túi 500g",
       "description": "Được trồng theo phương pháp hữu cơ. Cung cấp nhiều vitamin, dưỡng chất tốt cho cơ thể. Hương vị thơm ngon, hấp dẫn",
       "category": [
         "Trái cây VietGap",
@@ -56,7 +56,7 @@
     },
     {
       "id": 3,
-      "name": "Bưởi Da Xanh Ruột Hồng VietGap",
+      "productName": "Bưởi Da Xanh Ruột Hồng VietGap",
       "description": "Hương vị tươi ngon. Được trồng theo quy trình sạch. Cung cấp nhiều vitamin bổ dưỡng. Liên hệ trực tiếp để được giá sỉ tốt nhất",
       "category": [
         "Trái cây VietGap",
@@ -77,7 +77,7 @@
     },
     {
       "id": 4,
-      "name": "Cam Cara Ruột Đỏ NK Úc túi 1kg",
+      "productName": "Cam Cara Ruột Đỏ NK Úc túi 1kg",
       "description": "Sản phẩm thực tế có thể có màu sắc khác nhau, tùy theo mùa vụ hoặc thời tiết. Có nhiều tác dụng tốt với sức khỏe. Được nhập khẩu trực tiếp từ Úc. Liên hệ trực tiếp để được giá sỉ tốt nhất.",
       "category": [
         "Trái cây VietGap",
@@ -102,7 +102,7 @@
     },
     {
       "id": 5,
-      "name": "Chuối Cau VietGap",
+      "productName": "Chuối Cau VietGap",
       "description": "Dùng trực tiếp hoặc chế biến món ăn. Giàu các dưỡng chất cho cơ thể. Đảm bảo an toàn Liên hệ trực tiếp để được giá sỉ tốt nhất",
       "category": [
         "Trái cây VietGap",
@@ -122,7 +122,7 @@
     },
     {
       "id": 6,
-      "name": "Combo Trái Cây Sạch Theo Tháng",
+      "productName": "Combo Trái Cây Sạch Theo Tháng",
       "description": "Được trồng theo quy trình sạch. Đảm bảo tươi ngon. Cung cấp nhiều vitamin bổ dưỡng",
       "category": [
         "Trái cây VietGap",
@@ -143,7 +143,7 @@
     },
     {
       "id": 7,
-      "name": "Dưa Hấu Không Hạt VietGap Long An",
+      "productName": "Dưa Hấu Không Hạt VietGap Long An",
       "description": "Sản phẩm thực tế có thể có màu sắc khác nhau, tùy theo mùa vụ hoặc thời tiết. Vỏ mỏng, nhiều nước, không hạt. Là loại trái cây giải khát tuyệt vời. Hương vị thơm ngon, ngọt mát, cung cấp nhiều vitamin cho cơ thể",
       "category": [
         "Trái cây VietGap",
@@ -166,7 +166,7 @@
     },
     {
       "id": 8,
-      "name": "Dâu Tây New Zealand",
+      "productName": "Dâu Tây New Zealand",
       "description": "Quả to tròn đều và tươi ngon. Đảm bảo an toàn vệ sinh thực phẩm. Tiện dụng, giàu giá trị dinh dưỡng",
       "category": [
         "Trái cây VietGap",
