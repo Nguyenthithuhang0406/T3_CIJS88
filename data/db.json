@@ -193,35 +193,35 @@
   "orders": [
     {
       "orderId": 1,
-      "customerName": "John Doe",
+      "customerName": "Vu Dinh Hoang",
       "items": [
         {
-          "productId": 101,
-          "productName": "Product A",
+          "productId": 1,
+          "productName": "Bơ 034 VietGap 1kg",
           "quantity": 2,
-          "price": 10
+          "price": 100000
         },
         {
-          "productId": 102,
-          "productName": "Product B",
+          "productId": 2,
+          "productName": "Bơ Sáp VietGap Túi 500g",
           "quantity": 1,
-          "price": 20
+          "price": 70000
         }
       ],
-      "total": 40
+      "total": 270000
     },
     {
       "orderId": 2,
-      "customerName": "Jane Smith",
+      "customerName": "Doan Tu",
       "items": [
         {
-          "productId": 103,
-          "productName": "Product C",
+          "productId": 7,
+          "productName": "Dưa Hấu Không Hạt VietGap Long An",
           "quantity": 3,
-          "price": 15
+          "price": 30000
         }
       ],
-      "total": 45
+      "total": 90000
     }
   ]
 }
